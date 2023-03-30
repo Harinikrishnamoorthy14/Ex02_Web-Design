@@ -20,7 +20,6 @@
   
 ## CODE
 ~~~
-<!DOCTYPE html>
 <html>
 <title>sample webpage</title>
 <head>      <h1 align="centre">saveetha engineering college</h1>
