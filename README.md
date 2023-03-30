@@ -45,8 +45,7 @@
             </html>
             ```
    ##OUTPUT
-![2023-03-30](https://user-images.githubusercontent.com/127816514/228912602-80991a26-97c3-4313-8b7a-ec0f15e66a84.png)
-
+C:\Users\shalu\OneDrive\Pictures\HARINI.png
 
 ## RESULT
   List of Departments in an Institution is created successfully.
