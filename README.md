@@ -44,9 +44,8 @@
             </body>
             </html>
             ```
-## OUTPUT
-![2023-03-30](https://user-images.githubusercontent.com/127816514/228904292-b38de4a1-e806-40af-aa19-e401155aa3ea.png)
-
+   ##OUTPUT
+![2023-03-30](https://user-images.githubusercontent.com/127816514/228912602-80991a26-97c3-4313-8b7a-ec0f15e66a84.png)
 
 
 ## RESULT
