@@ -43,9 +43,9 @@
                  <li>Mechanical Engineering</li>
             </body>
             </html>
-            ```
-   ##OUTPUT
-C:\Users\shalu\OneDrive\Pictures\HARINI.png
+```
+## OUTPUT
+![Screenshot (17)](https://user-images.githubusercontent.com/127816514/229263628-c3485af8-5d31-4945-b676-886a78264266.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
