@@ -50,4 +50,5 @@ Create an ordered list using <ol> tag.
 ![sa2](https://user-images.githubusercontent.com/127816514/229396865-9aab14bf-f5a9-4ee6-a106-32479ec94784.png)
 
 ##RESULT
+
   List of Departments in an Institution is created successfully.
