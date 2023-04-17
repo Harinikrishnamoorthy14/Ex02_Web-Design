@@ -19,6 +19,7 @@ STEP-5
 Open the file in a browser and verify the output.
 
 CODE
+~~~
 <html>
 <head>
 <title> Saveetha Engineering College</title>
@@ -42,6 +43,7 @@ CODE
 </ol>
 </body>
 </html>
+~~~
 OUTPUT
 EX NO 2 WEB
 ![sa2](https://user-images.githubusercontent.com/127816514/229396865-9aab14bf-f5a9-4ee6-a106-32479ec94784.png)
